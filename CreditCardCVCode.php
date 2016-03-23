@@ -18,7 +18,7 @@ use yii\helpers\Html;
  *
  * @author Andrew Blake <admin@newzealandfishing.com>
  */
-class CreditCardNumber extends \kartik\base\InputWidget
+class CreditCardCVCode extends \kartik\base\InputWidget
 {
     /**
      * @var string/boolean the addon content
